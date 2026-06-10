@@ -627,4 +627,4 @@ MIT
 - [Lofty (formerly Chime) CRM](https://www.lofty.com)
 - [Model Context Protocol](https://modelcontextprotocol.io)
 - [Follow Up Boss MCP Server](https://github.com/nerdsnipe-inc/follow-up-boss-mcp) — same pattern for FUB CRM
-- [GHL MCP Server](https://github.com/nerdsnipe-inc/ghl-mcp-server) — same pattern for GoHighLevel
+- [GHL MCP Server](https://github.com/nerdsnipe-inc/ghl-mcp-server) — same pattern for [Free Trial GoHighLevel](https://www.gohighlevel.com/?fp_ref=nerdsnipe-inc)
